@@ -1,7 +1,5 @@
 ### Hola, soy Daniel 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on an ERP using React, Express, PostgreSQL
 - 🌱 I’m currently learning Modern React (2023) and 
 - 👯 I’m looking to collaborate on Blockchain projects, specially Ethereum related.
