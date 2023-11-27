@@ -1,7 +1,7 @@
 ### Hola, soy Daniel 👋
 
 - 🔭 I’m currently working on an ERP using React, Express, PostgreSQL
-- 🌱 I’m currently learning Modern React (2023) and 
+- 🌱 I’m currently learning Modern React (2023), Ethereum Smart Contract Standards, Common Exploits and Zero Knowledge
 - 👯 I’m looking to collaborate on Blockchain projects, specially Ethereum related.
 - 📫 How to reach me: Email me at dani3.a@proton.me
 - ⚡ Fun fact: I love retro games and FPS.
