@@ -10,4 +10,4 @@
 
 ### My GitHub stats
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel0ar&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel0ar)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel0ar&theme=github_dark_dimmed)
