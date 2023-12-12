@@ -8,3 +8,5 @@
 
 [![An image of @daniel0ar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/daniel0ar)](https://holopin.io/@daniel0ar)
 
+### My GitHub stats
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel0ar)](https://github.com/anuraghazra/github-readme-stats)
