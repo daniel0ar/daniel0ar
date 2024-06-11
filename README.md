@@ -1,8 +1,8 @@
 ### Hola, soy Daniel 👋
 
-- 🔭 I’m currently working on an ERP using React, Bootstrap, Express, Sequelize ORM and PostgreSQL
-- 🌱 I’m currently learning Zero Knoledge Cryptography, Ethereum Smart Contract Standards, Common Exploits
-- 👯 I’m looking to collaborate on Blockchain projects, specially Ethereum or Polygon related.
+- 🔭 I’m currently working on [Monadex]([https://www.google.com](https://www.monadex.exchange/), a descentralized exchange on the Monad L1 blockchain.
+- 🌱 I’m currently learning Web3 Dapp Architecture, web3 frontend libraries, Zero Knoledge Cryptography.
+- 👯 I’m looking to collaborate on Blockchain projects, specially EVM related, developing interfaces with great UX principles and style.
 - 📫 How to reach me: Email me at dani3.a@proton.me
 - ⚡ Fun fact: I love retro games and FPS.
 
