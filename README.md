@@ -1,8 +1,8 @@
 ### Hola, soy Daniel 👋
 
-- 🔭 I’m currently working on [Monadex](https://www.monadex.exchange/), a descentralized exchange on the Monad L1 blockchain.
-- 🌱 I’m currently learning Web3 Dapp Architecture, web3 frontend libraries, Zero Knoledge Cryptography.
-- 👯 I’m looking to collaborate on Blockchain projects, specially EVM related, developing interfaces with great UX principles and style.
+- 🔭 I’m currently working on [IDRISS](https://idriss.xyz) and [Monadex](https://www.monadex.exchange/).
+- 🌱 I’m learning Zero Knoledge Cryptography.
+- 👯 I’m looking to collaborate on open source projects, where I can learn more about good practices and get advice.
 - 📫 How to reach me: Email me at dani3.a@proton.me
 - ⚡ Fun fact: I love retro games and FPS.
 
