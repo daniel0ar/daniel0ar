@@ -1,10 +1,10 @@
 ### Hola, soy Daniel 👋
 
 - 🔭 I’m currently working on [IDRISS](https://idriss.xyz) and [BubbleFi](https://www.bubblefi.xyz/).
-- 🌱 I’m learning Zero Knoledge Cryptography.
-- 👯 I’m looking to collaborate on open source projects, where I can learn more about good practices and get advice.
-- 📫 How to reach me: Email me at dani3.a@proton.me
-- ⚡ Fun fact: I love retro games and FPS.
+- 🌱 I’m a privacy, decentralization and user experience advocate.
+- 👯 I’m looking to collaborate on real-world open source projects, where I can build useful things for the masses and people who really need it.
+- 📫 How to reach me: Email me at info@daniel0ar.com
+- ⚡ Fun fact: I love listening/playing music, shooter games and tennis.
 
 [![An image of @daniel0ar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/daniel0ar)](https://holopin.io/@daniel0ar)
 
