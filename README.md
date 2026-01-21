@@ -2,7 +2,7 @@
 
 # Hola, soy Daniel 👋
 
-- 🔭 Building products for the end user and targetting mass adoption.
+- 🔭 Building crypto/web3 products for the end user and targetting mass adoption.
 - 🌱 I’m pro privacy, decentralization and good user experience.
 - 📫 Email: dani3.a@proton.me
 
