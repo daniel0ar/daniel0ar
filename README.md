@@ -5,5 +5,3 @@
 - 🔭 Building crypto/web3 products for the end user and targetting mass adoption.
 - 🌱 I’m pro privacy, decentralization and good user experience.
 - 📫 Email: dani3.a@proton.me
-
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel0ar&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
